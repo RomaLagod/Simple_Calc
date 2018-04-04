@@ -1,0 +1,10 @@
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\bin\Debug\Calc.exe.config
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\bin\Debug\Calc.exe
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\bin\Debug\Calc.pdb
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\obj\Debug\Calc.f_calc.resources
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\obj\Debug\Calc.exe
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_3_Calculator\Calc\Calc\obj\Debug\Calc.pdb
